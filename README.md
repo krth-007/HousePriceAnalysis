@@ -1,8 +1,8 @@
 # 🏠 Bangalore House Price Prediction
 
-An end-to-end Machine Learning project that predicts residential property prices in Bangalore using a Linear Regression model. The project includes data preprocessing, exploratory data analysis, model evaluation, and an interactive Streamlit web application for real-time price prediction.
+🚀 **Live Demo:** https://housepriceanalysis.streamlit.app
 
----
+A Machine Learning project that predicts Bangalore house prices using Linear Regression and Streamlit.
 
 ## 📖 About the Project
 
